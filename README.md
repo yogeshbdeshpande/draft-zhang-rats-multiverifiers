@@ -1,5 +1,7 @@
 # Handling Multiple Verifiers in the RATS Architecture
 
+This work has NOW BEEN MOVED TO https://github.com/ietf-rats/draft-deshpande-multi-verifier/
+
 This is the working area for the individual Internet-Draft, "Handling Multiple Verifiers in the RATS Architecture".
 
 * [Editor's Copy](https://ietf-rats.github.io/draft-zhang-rats-multiverifiers/#go.draft-zhang-rats-multiverifiers.html)
